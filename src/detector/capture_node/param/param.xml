@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<opencv_storage>
+
+<!-->Configration<-->
+<camera>0</camera>              <!-->0-video 1-camera<-->
+<video_path>/data/Left-90deg-turn-forward.MP4</video_path>               <!-->video_path<-->
+
+</opencv_storage>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<opencv_storage>
+
+<!-->Configration<-->
+<print_position>0</print_position>              <!-->0-not print result 1-print result<-->
+<publish_position>1</publish_position>              <!-->0-not publish result 1-publish result<-->
+<show_image>1</show_image>               <!-->0-not show image 1-show image<-->
+<show_box>0</show_box>               <!-->0-not show box 1-show box<-->
+
+</opencv_storage>
